@@ -1,5 +1,5 @@
 # PCP-FreeRTOS
-Modification of the FreeRTOS operating system to support the PCP synchronization protocol for shared resources. 
+Modification of the Arduino FreeRTOS operating system to support the PCP synchronization protocol for shared resources. 
 It supports working with resources through lock and unlock operations, which are defined
 independent of the standard FreeRTOS mutex mechanism, and which work according to the PCP algorithm.
 
